@@ -1,0 +1,6 @@
+{
+  "name": "Live Vision AI",
+  "description": "Real-time live camera object identification and AR bounding box detector powered by Vision AI.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Live Vision AI</string>
+    <string name="camera_permission_required">Camera access is required for real-time vision detection</string>
+    <string name="grant_permission">Grant Camera Permission</string>
+    <string name="scan_mode_realtime">Continuous AI Vision</string>
+    <string name="scan_mode_inspect">Tap &amp; Lock Target</string>
+    <string name="simulated_scene">Simulation Mode</string>
+</resources>
